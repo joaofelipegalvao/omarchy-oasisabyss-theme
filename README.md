@@ -8,8 +8,6 @@
   This is a theme for <a href="https://omarchy.org">Omarchy</a> based on <a href="https://github.com/uhs-robert/oasis.nvim?tab=readme-ov-file#starlight-dark">oasis-starship</a> colorscheme from <a href="https://github.com/uhs-robert">uhs-robert</a>.
 </p>
 
-[oasis-starlight.png](https://i.postimg.cc/gJFZRwN7/oasis-abyss.png)
-
 ## Preview
 | Starlight |
 |----------|
